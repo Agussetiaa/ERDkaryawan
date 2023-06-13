@@ -1,4 +1,4 @@
-# ERDkaryawan
+# Studi Kasus : ERD karyawan
 ## Tugas 3
 ```
 1. Sebuah perusahaan ingin membuat sistem untuk pengelolaan data karyawan pada perusahaan tersebut dengan ketentuan: 
