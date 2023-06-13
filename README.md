@@ -17,7 +17,7 @@ buat ddl script
 1. Tabel Departemen
 <img width="554" alt="image" src="https://github.com/Agussetiaa/ERDkaryawan/assets/115542822/016476e4-e2ae-493d-b98c-03c1531f0caf">
 
-1. Tabel Karyawan
+2. Tabel Karyawan
 ``<img width="509" alt="image" src="https://github.com/Agussetiaa/ERDkaryawan/assets/115542822/58b70db0-5d4f-4218-859d-488a2bb9d1e4">
 
 3. Tabel Supervisor
