@@ -12,7 +12,7 @@ buat ddl script
 2. Buatlah desain databasenya (ER-DIAGRAM) Beserta data tabelnya.
 ```
 
-### database nya
+### Tabel database nya
 
 1. Tabel Departemen
 <img width="554" alt="image" src="https://github.com/Agussetiaa/ERDkaryawan/assets/115542822/016476e4-e2ae-493d-b98c-03c1531f0caf">
